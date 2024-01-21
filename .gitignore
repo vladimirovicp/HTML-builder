@@ -1,5 +1,7 @@
-02-write-file/text.txt
 .idea
+02-write-file/text.txt
+04-copy-directory/files
+04-copy-directory/files-copy
 # Logs
 logs
 *.log
